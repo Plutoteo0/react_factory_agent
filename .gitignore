@@ -13,3 +13,5 @@ generated_components/
 Thumbs.db
 
 .langgraph/
+.vscode/
+project/

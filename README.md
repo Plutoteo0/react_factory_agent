@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🚀 React Factory Agent (LangGraph)
 
 An autonomous multi-agent system designed to design, code, and review React components based on natural language descriptions. This project demonstrates advanced agentic workflows, self-correction loops, and local LLM integration.
